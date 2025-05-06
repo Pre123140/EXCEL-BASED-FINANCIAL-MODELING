@@ -1,13 +1,13 @@
-# 📈 Excel Project – Financial Modeling for Business Performance
+# Excel Project – Financial Modeling for Business Performance
 
-## 📁 Dataset
+## Dataset
 **Filename:** `Financials.csv`
 
 This CSV file contains sample revenue, cost, and profit data for a hypothetical business, segmented by month and product category. It serves as the foundation for building a dynamic Excel-based financial model.
 
 ---
 
-## 🎯 Objective
+## Objective
 To build a fully functional financial model in Microsoft Excel that helps:
 - Evaluate historical business performance
 - Track key financial KPIs like revenue, profit, and growth
@@ -16,7 +16,7 @@ To build a fully functional financial model in Microsoft Excel that helps:
 
 ---
 
-## 💡 Features & Highlights
+## Features & Highlights
 - **Interactive Financial Statements**:
   - Monthly Revenue and Profit breakdowns
   - Summary dashboards with visual cues
@@ -36,7 +36,7 @@ To build a fully functional financial model in Microsoft Excel that helps:
 
 ---
 
-## 📌 Strategic Insights
+## Strategic Insights
 This Excel-based financial model enables business analysts and decision-makers to:
 - Simulate different scenarios for revenue and cost
 - Understand profitability trends over time
@@ -47,16 +47,16 @@ This model acts as a lightweight alternative to enterprise-grade planning tools 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - **Microsoft Excel** (365)
 - **Excel Formulas & Functions**
 - **Pivot Tables & Charts**
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 ```
-📁 Excel-Financial-Model/
+Excel-Financial-Model/
 ├── 📄 Financials.csv
 ├── 📄 Financial Modeling for Business Performance.xlsx
 ├── 📄 README.md
@@ -65,5 +65,12 @@ This model acts as a lightweight alternative to enterprise-grade planning tools 
 
 ---
 
-## 📬 Contact
+## License
+
+This project is open for educational use only. For commercial deployment, contact the author.
+
+---
+
+## Contact
 If you'd like to learn more or collaborate on projects or other initiatives, feel free to connect on [LinkedIn](https://www.linkedin.com/in/prerna-burande-99678a1bb/) or check out my [portfolio site](https://youtheleader.com/).
+
