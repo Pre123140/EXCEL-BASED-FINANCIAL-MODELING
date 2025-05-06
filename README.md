@@ -66,4 +66,4 @@ This model acts as a lightweight alternative to enterprise-grade planning tools 
 ---
 
 ## 📬 Contact
-If you'd like to learn more or collaborate on business modeling projects, feel free to connect on [LinkedIn](#) or check out my [portfolio site](#).
+If you'd like to learn more or collaborate on projects or other initiatives, feel free to connect on [LinkedIn](https://www.linkedin.com/in/prerna-burande-99678a1bb/) or check out my [portfolio site](https://youtheleader.com/).
